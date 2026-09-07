@@ -1,0 +1,34 @@
+# Garage Management System
+
+A Java-based Garage Management System developed using **Core Java, OOP, JDBC, and MySQL**. The system helps manage customers, vehicles, invoices, and vehicle services through a structured backend application.
+
+### Features
+
+* Add and manage customers with their vehicles
+* Add and manage garage services
+* Generate invoices for customers
+* Associate multiple services with an invoice
+* Retrieve and display invoice details
+* Retrieve services associated with a specific invoice
+* Store and retrieve data using MySQL
+
+### Technologies Used
+
+* **Java**
+* **JDBC**
+* **MySQL**
+* **Object-Oriented Programming**
+* **Collections Framework**
+* **SQL**
+
+### Database Concepts
+
+* CRUD operations
+* PreparedStatement
+* ResultSet
+* Auto-increment generated keys
+* JOIN queries
+* Batch processing
+* Relational database design
+
+This project demonstrates practical implementation of **Java backend development and database connectivity using JDBC**, along with object-oriented design and SQL operations.
